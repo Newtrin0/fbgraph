@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/criso/fbgraph.git"
+    "url": "git://github.com/Newtrin0/fbgraph.git"
   },
   "engines": {
     "node": ">= 0.4.1"
